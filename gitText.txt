@@ -1,5 +1,0 @@
-git add .
-git status
-git commit -m "new interface3 in practice/interface3 folder"
-git remote add origin https://github.com/subhadipsjsc/golang_general_practice.git
-git push -u origin master
